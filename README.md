@@ -1,4 +1,4 @@
-# Doxie Ruby API Wrapper
+# Doxie Scanner
 
 [![Gem Version](https://badge.fury.io/rb/doxie_Scanner.svg)](https://badge.fury.io/rb/doxie_Scanner)
 
