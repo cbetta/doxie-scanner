@@ -1,6 +1,6 @@
 # Doxie Scanner
 
-[![Gem Version](https://badge.fury.io/rb/doxie_Scanner.svg)](https://badge.fury.io/rb/doxie_Scanner)
+[![Gem Version](https://badge.fury.io/rb/doxie-scanner.svg)](https://badge.fury.io/rb/doxie-scanner)
 
 A scanner to find your the [Doxie Go Wifi](http://getdoxie.com). Returns an IP or list of IPs for your Doxie scanner. Very useful in combination with the [Doxie API gem](https://github.com/cbetta/doxie).
 
