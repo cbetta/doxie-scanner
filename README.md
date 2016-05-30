@@ -20,7 +20,7 @@ The scanner uses UPnP and SSDP to search for your Doxie.
 require 'doxie_scanner'
 DoxieScanner.ips
 => [
-    [0] "192.168.1.66"
+    [0] "192.168.1.2"
 ]
 ```
 
