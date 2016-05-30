@@ -11,4 +11,6 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/cbetta/doxie_scanner'
   s.license     = 'MIT'
   s.require_path = 'lib'
+
+  s.add_development_dependency('frisky')
 end
