@@ -1,8 +1,8 @@
-# Doxie Ruby API Wrapper
+# Doxie Scanner
 
 [![Gem Version](https://badge.fury.io/rb/doxie_Scanner.svg)](https://badge.fury.io/rb/doxie_Scanner)
 
-A scanner for the [Doxie Go Wifi](http://getdoxie.com). Returns an IP or list of IPs for your Doxie scanner. Very useful in combination with the [Doxie API gem](https://github.com/cbetta/doxie).
+A scanner to find your the [Doxie Go Wifi](http://getdoxie.com). Returns an IP or list of IPs for your Doxie scanner. Very useful in combination with the [Doxie API gem](https://github.com/cbetta/doxie).
 
 ## Installation
 
@@ -20,7 +20,7 @@ The scanner uses UPnP and SSDP to search for your Doxie.
 require 'doxie/scanner'
 Doxie::Scanner.ips
 => [
-    [0] "192.168.1.66"
+    [0] "192.168.1.2"
 ]
 ```
 
