@@ -9,7 +9,7 @@ A scanner for the [Doxie Go Wifi](http://getdoxie.com). Returns an IP or list of
 Either install directly or via bundler.
 
 ```rb
-gem 'doxie_scanner'
+gem 'doxie-scanner'
 ```
 
 ## Usage
@@ -17,8 +17,8 @@ gem 'doxie_scanner'
 The scanner uses UPnP and SSDP to search for your Doxie.
 
 ```rb
-require 'doxie_scanner'
-DoxieScanner.ips
+require 'doxie/scanner'
+Doxie::Scanner.ips
 => [
     [0] "192.168.1.66"
 ]

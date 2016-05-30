@@ -1,7 +1,8 @@
 PATH
   remote: .
   specs:
-    doxie_scanner (1.0.0)
+    doxie-scanner (1.0.0)
+      frisky
 
 GEM
   remote: https://rubygems.org/
@@ -19,8 +20,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  doxie_scanner!
-  frisky
+  doxie-scanner!
 
 BUNDLED WITH
    1.12.3
