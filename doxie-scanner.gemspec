@@ -11,4 +11,6 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
 
   s.add_dependency('frisky')
+
+  s.add_development_dependency('minitest')
 end

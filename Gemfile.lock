@@ -7,20 +7,22 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    em-synchrony (1.0.5)
+    em-synchrony (1.0.6)
       eventmachine (>= 1.0.0.beta.1)
-    eventmachine (1.2.0.1)
+    eventmachine (1.2.7)
     frisky (0.1.2)
       em-synchrony
       eventmachine (>= 1.0.0)
       log_switch (~> 1.0.0)
     log_switch (1.0.0)
+    minitest (5.11.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   doxie-scanner!
+  minitest
 
 BUNDLED WITH
-   1.12.3
+   1.17.2
