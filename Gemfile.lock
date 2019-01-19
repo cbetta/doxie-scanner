@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    doxie-scanner (1.1.0)
+    doxie-scanner (1.2.0)
       frisky
 
 GEM
