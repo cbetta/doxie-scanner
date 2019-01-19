@@ -1,6 +1,6 @@
 language: ruby
 cache: bundler
-before_install: gem install bundler
+before_install: gem install bundler -v 1.17.2
 deploy:
   - provider: rubygems
     gem: doxie-scanner
