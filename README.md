@@ -26,6 +26,15 @@ Doxie::Scanner.ips
 ]
 ```
 
+For usage with the [Doxie client library](https://github.com/cbetta/doxie) you can use the `.devices` method to automatically detect the model number and IP.
+
+```rb
+require 'doxie'
+require 'doxie/scanner'
+
+client = Doxie::Client.new(Doxie::Scanner.devices.first)
+```
+
 ## Contributing
 
  1. **Fork** the repo on GitHub
