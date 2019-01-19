@@ -1,6 +1,6 @@
 # Doxie Scanner
 
-[![Gem Version](https://badge.fury.io/rb/doxie-scanner.svg)](https://badge.fury.io/rb/doxie-scanner)
+[![Gem Version](https://badge.fury.io/rb/doxie-scanner.svg)](https://badge.fury.io/rb/doxie-scanner) [![Build Status](https://travis-ci.org/cbetta/doxie-scanner.svg?branch=master)](https://travis-ci.org/cbetta/doxie-scanner)
 
 A scanner to find your WiFi enabled [Doxie](http://getdoxie.com) scanner. It returns a list of IP addressess for all Doxie scanners discovered on your network. 
 
