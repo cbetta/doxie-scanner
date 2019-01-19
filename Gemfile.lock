@@ -16,6 +16,7 @@ GEM
       log_switch (~> 1.0.0)
     log_switch (1.0.0)
     minitest (5.11.3)
+    rake (12.3.2)
 
 PLATFORMS
   ruby
@@ -23,6 +24,7 @@ PLATFORMS
 DEPENDENCIES
   doxie-scanner!
   minitest
+  rake
 
 BUNDLED WITH
    1.17.2
