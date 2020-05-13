@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'doxie-scanner'
-  s.version     =  '1.2.0'
+  s.version     =  '2.0.0'
   s.summary     = "A simple scanner for your Wifi enabled Doxie scanner"
   s.description = "A simple scanner for your Wifi enabled Doxie scanner"
   s.authors     = ["Cristiano Betta"]
